@@ -1,0 +1,15 @@
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/bin/Debug/net6.0/oopspotiflix
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/bin/Debug/net6.0/oopspotiflix.deps.json
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/bin/Debug/net6.0/oopspotiflix.runtimeconfig.json
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/bin/Debug/net6.0/oopspotiflix.dll
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/bin/Debug/net6.0/oopspotiflix.pdb
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.csproj.AssemblyReference.cache
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.AssemblyInfoInputs.cache
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.AssemblyInfo.cs
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.csproj.CoreCompileInputs.cache
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.dll
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/refint/oopspotiflix.dll
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.pdb
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/oopspotiflix.genruntimeconfig.cache
+/Users/uzzy/Projects/oopspotiflix/oopspotiflix/obj/Debug/net6.0/ref/oopspotiflix.dll
